@@ -7,11 +7,15 @@ I am Fahad Aleem! studying BSCS from University of Karachi UBIT Department. I am
 - Bootstrap
 - Javascript
 - React
+- TypeScript
+- Vue
 - Redux
 - Material UI
 - Styled Component
 - Firebase
 - Flask
+- Node JS
+- Angular
 
 I am a self motivated, open minded and a creative person who can work under pressure. I like to write clean, and optimzed code, will provided solutions that will add values into your business. Open for new opportunities. 
 <!--
