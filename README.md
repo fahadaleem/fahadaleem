@@ -54,7 +54,7 @@ Currently, I’m working at **Securiti.ai**, contributing to secure and scalable
 ### 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fahad-aleem/)  
-- ✉️ Email: `fahadaleemdev@gmail.com`
+- ✉️ Email: `faleem396@gmail.com`
 
 ---
 
